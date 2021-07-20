@@ -55,6 +55,7 @@ There are two requirements files, depending on how you want to set up your envir
 ```
 
 The conda environment is recommended for exploring the code and doing development, while the pip deployment is better for deployment as a package.
+If you are installing Conda for this first time, we recommend [miniconda](https://docs.conda.io/en/latest/miniconda.html) as it is a lighter-weight tool.
 
 ## Using Project Drawdown Solutions as a package
 
